@@ -1,0 +1,1 @@
+Today is a great day to learn file handling in Java! We'll combine Scanner, FileInputStream, and FileWriter.
